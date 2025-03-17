@@ -1,4 +1,4 @@
-# Python for Astronomy
+# Introduction to Python Programming for Astronomy
 
 ## Course Overview
 
