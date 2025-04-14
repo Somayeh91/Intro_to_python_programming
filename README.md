@@ -49,7 +49,14 @@ This repository contains materials for "Introduction to Python Programming for A
 - Data cleaning and preprocessing
 - Basic statistical analysis
 
-### Session 6: Image Processing
+### Session 6: Object-Oriented Programming (OOP)
+- Introduction to object-oriented programming
+- Classes and objects
+- Methods and attributes
+- Inheritance and polymorphism
+- Practical OOP examples in astronomy
+
+### Session 7: Image Processing
 - Reading and displaying astronomical images
 - Basic image manipulation
 - Background subtraction and noise reduction
@@ -57,7 +64,7 @@ This repository contains materials for "Introduction to Python Programming for A
 - Astrometry basics
 - Combining multiple images
 
-### Session 7: Time Series Analysis
+### Session 8: Time Series Analysis
 - Working with time-series data
 - Light curve analysis
 - Period finding algorithms
@@ -65,7 +72,7 @@ This repository contains materials for "Introduction to Python Programming for A
 - Filtering techniques
 - Exoplanet transit detection
 
-### Session 8: Machine Learning Basics
+### Session 9: Machine Learning Basics
 - Introduction to machine learning concepts
 - Supervised vs. unsupervised learning
 - Classification and regression problems
@@ -73,14 +80,14 @@ This repository contains materials for "Introduction to Python Programming for A
 - Application to astronomical data
 - Model evaluation
 
-### Session 9: Advanced Topics and Project Work
+### Session 10: Advanced Topics and Project Work
 - Working with large datasets
 - Parallel processing
 - Best practices for reproducible research
 - Version control with Git
 - Final project development
 
-### Session 10: Final Projects and Future Directions
+### Session 11: Final Projects and Future Directions
 - Student project presentations
 - Advanced Python libraries for astronomy
 - Resources for further learning
