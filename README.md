@@ -35,28 +35,20 @@ This repository contains materials for "Introduction to Python Programming for A
 - Default arguments and keyword arguments
 - NumPy and SciPy for scientific calculations
 
-### Session 4: Data Visualization
+### Session 4: Working with Astronomical Data
+- Reading and writing various data formats
+- Astronomical databases and catalogs
 - Matplotlib basics
-- Creating common plot types
-- Customizing plots
-- Multi-panel figures
 - Visualizing astronomical data
 
-### Session 5: Working with Astronomical Data
-- Reading and writing various data formats
-- Handling FITS files
-- Astronomical databases and catalogs
-- Data cleaning and preprocessing
-- Basic statistical analysis
-
-### Session 6: Object-Oriented Programming (OOP)
+### Session 5: Object-Oriented Programming (OOP)
 - Introduction to object-oriented programming
 - Classes and objects
 - Methods and attributes
 - Inheritance and polymorphism
 - Practical OOP examples in astronomy
 
-### Session 7: Image Processing
+### Session 6: Image Processing
 - Reading and displaying astronomical images
 - Basic image manipulation
 - Background subtraction and noise reduction
@@ -64,7 +56,7 @@ This repository contains materials for "Introduction to Python Programming for A
 - Astrometry basics
 - Combining multiple images
 
-### Session 8: Time Series Analysis
+### Session 7: Time Series Analysis
 - Working with time-series data
 - Light curve analysis
 - Period finding algorithms
@@ -72,7 +64,7 @@ This repository contains materials for "Introduction to Python Programming for A
 - Filtering techniques
 - Exoplanet transit detection
 
-### Session 9: Machine Learning Basics
+### Session 8: Machine Learning Basics
 - Introduction to machine learning concepts
 - Supervised vs. unsupervised learning
 - Classification and regression problems
@@ -80,14 +72,14 @@ This repository contains materials for "Introduction to Python Programming for A
 - Application to astronomical data
 - Model evaluation
 
-### Session 10: Advanced Topics and Project Work
+### Session 9: Advanced Topics and Project Work
 - Working with large datasets
 - Parallel processing
 - Best practices for reproducible research
 - Version control with Git
 - Final project development
 
-### Session 11: Final Projects and Future Directions
+### Session 10: Final Projects and Future Directions
 - Student project presentations
 - Advanced Python libraries for astronomy
 - Resources for further learning
@@ -111,7 +103,7 @@ Each session may include:
 
 ## Acknowledgments
 
-This course was designed with assistance from Large Language Models (LLMs) ChatGPT 4o and Claude 3.7 to create engaging, accurate, and effective educational content. The materials have been reviewed and refined by Somayeh Khakpash to ensure they meet the highest standards of scientific and pedagogical quality.
+This course is designed with assistance from Large Language Models (LLMs) ChatGPT 4o and Claude 3.7 to create engaging, accurate, and effective educational content. The materials have been created, reviewed and refined by Somayeh Khakpash to ensure they meet the highest standards of scientific and pedagogical quality.
 
 ## Contact
 
